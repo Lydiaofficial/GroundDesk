@@ -1,7 +1,7 @@
 body {
   font-family: "Be Vietnam Pro", sans-serif;
   margin: 0;
-  width: 1440px;
+  width: cover;
 }
 
 .section-1 {
@@ -181,7 +181,11 @@ ul {
   justify-content: space-between;
   align-items: center;
   padding: 0px;
-  margin: 120px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 100px;
+  margin-bottom: 140px;
+
 }
 
 #now {
@@ -208,9 +212,6 @@ ul {
 #zendesk {
   width: 74.66px;
   height: 53.33px;
-}
-
-.section-2 {
 }
 
 h3 {
@@ -240,7 +241,7 @@ h3 {
   display: flex;
   flex-direction: row;
   padding: 0px;
-  gap: 20px;
+  gap: 40px;
   justify-content: center;
   margin-left: 100px;
   margin-right: 100px;
@@ -292,7 +293,7 @@ h3 {
   background: #ffffff;
   border: 1px solid #eaeaea;
   border-radius: 15px;
-  border-color: ##eaeaea;
+  border-color: #eaeaea;
 }
 
 #synchronization {
@@ -307,7 +308,7 @@ h3 {
   background: #ffffff;
   border: 1px solid #eaeaea;
   border-radius: 15px;
-  border-color: ##eaeaea;
+  border-color: #eaeaea;
 }
 
 #cloud-drive {
@@ -322,7 +323,7 @@ h3 {
   background: #ffffff;
   border: 1px solid #eaeaea;
   border-radius: 15px;
-  border-color: ##eaeaea;
+  border-color: #eaeaea;
 }
 
 #file-sharing {
@@ -337,7 +338,7 @@ h3 {
   background: #ffffff;
   border: 1px solid #eaeaea;
   border-radius: 15px;
-  border-color: ##eaeaea;
+  border-color: #eaeaea;
 }
 
 .icon {
@@ -354,9 +355,6 @@ h3 {
   padding: 100px 60px;
   gap: 66px;
   margin-bottom: 120px;
-}
-
-.left-items {
 }
 
 .section-title {
@@ -425,7 +423,6 @@ h2 {
   gap: 12px;
 }
 
-,
 section-4 {
   display: flex;
   flex-direction: column;
@@ -592,7 +589,6 @@ box-shadow: 0px 10px 56px rgba(0, 0, 0, 0.05);
   gap: 10px;
   width: hug;
   height: hug;
-  back
 }
 
 .li-ex {
@@ -673,7 +669,7 @@ box-shadow: 0px 10px 56px rgba(0, 0, 0, 0.05);
   flex-direction: row;
   justify-content: center;
   padding: 0px;
-  gap: 34px;
+  gap: 68px;
   margin-top: 48px;
 }
 
@@ -743,10 +739,6 @@ box-shadow: 0px 10px 56px rgba(0, 0, 0, 0.05);
   height: hug;
 }
 
-.testimonial {
-  
-}
-
 .caption {
   font-style: normal;
   font-weight: 700;
@@ -761,17 +753,13 @@ box-shadow: 0px 10px 56px rgba(0, 0, 0, 0.05);
   margin: 0;
 }
 
-.testimonial{
-  
-}
-
 
 .cards {
  display:flex; 
   justify-content:center;
   align-content:center;
   margin-top: 40px;
-  gap: 24px;
+  gap: 48px;
   margin-bottom: 120px;
   
 }
@@ -851,7 +839,7 @@ top: 107px;
   flex-direction: row;
   align-items: center;
   padding: 0px;
-  gap: 380px;
+  gap: 840px;
   margin-top: 120px;
   margin-left: 100px;
 
@@ -1024,8 +1012,8 @@ display: flex;
 flex-direction: row;
 align-items: center;
 padding: 0px;
-gap: 200px;
-  margin-right: 80px;
+gap: 760px;
+  margin-right: 24px;
   margin-top: 0;
 }
 
